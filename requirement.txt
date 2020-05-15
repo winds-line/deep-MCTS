@@ -1,0 +1,7 @@
+numpy = 1.16.4
+tensorflow-gpu = 1.13.1
+python-socketio = 4.3.1
+eventlet = 0.25.1
+Flask = 1.1.1 
+Pillow = 6.1.0
+opencv-python = 4.1.0.25
